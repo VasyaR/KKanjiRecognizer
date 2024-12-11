@@ -15,7 +15,7 @@ setup(
                     'torchvision.models.resnet',
                     'torchvision',
                     'json',
-                    'PIL',
+                    'Pillow',
                       ],
     package_data={'KKanjiRecognizerPackage': ['PackageData/model_300_weights.pth', 'PackageData/kanji_mapping.json', "PackageData/threshold.pth"]},
     url='https://github.com/VasyaR/Bachelor_work',
