@@ -98,7 +98,7 @@ class PreactBasicBlock(nn.Module):
 def load_model():
     model = _resnet(PreactBasicBlock, [2, 2, 2, 2], None, progress=False)
     model.fc = nn.Linear(model.fc.in_features, 300)
-    weights_path = "KKanjiRecognizerPackage/PackageData/model_300_weights.pth"
+    weights_path = "KKanjiRecognizer/PackageData/model_300_weights.pth"
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.load_state_dict(torch.load(weights_path, map_location=device))
     model.eval()
