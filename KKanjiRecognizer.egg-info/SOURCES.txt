@@ -12,3 +12,6 @@ KKanjiRecognizer.egg-info/SOURCES.txt
 KKanjiRecognizer.egg-info/dependency_links.txt
 KKanjiRecognizer.egg-info/requires.txt
 KKanjiRecognizer.egg-info/top_level.txt
+KKanjiRecognizer/PackageData/kanji_mapping.json
+KKanjiRecognizer/PackageData/model_300_weights.pth
+KKanjiRecognizer/PackageData/threshold.pth

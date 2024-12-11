@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: KKanjiRecognizer
-Version: 0.1
+Version: 0.1.2
 Summary: Package for recognizing Kanji characters using ResNet
 Home-page: https://github.com/VasyaR/Bachelor_work
 Author: Vasyl Rusyn
