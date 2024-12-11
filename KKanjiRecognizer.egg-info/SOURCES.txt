@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+KKanjiRecognizer.egg-info/PKG-INFO
+KKanjiRecognizer.egg-info/SOURCES.txt
+KKanjiRecognizer.egg-info/dependency_links.txt
+KKanjiRecognizer.egg-info/requires.txt
+KKanjiRecognizer.egg-info/top_level.txt
+KKanjiRecognizerPackage/__init__.py
+KKanjiRecognizerPackage/model.py
+KKanjiRecognizerPackage/recognize_kanji.py
+KKanjiRecognizerPackage/transforms.py
+KKanjiRecognizerPackage/utils.py
+KKanjiRecognizerPackage/PackageData/kanji_mapping.json
+KKanjiRecognizerPackage/PackageData/model_300_weights.pth
+KKanjiRecognizerPackage/PackageData/threshold.pth

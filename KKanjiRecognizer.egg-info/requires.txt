@@ -1,0 +1,8 @@
+PIL
+json
+numpy
+torch
+torch.nn
+torch.nn.functional
+torchvision
+torchvision.models.resnet
